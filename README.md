@@ -22,6 +22,12 @@ A simple Move smart contract for Aptos blockchain that enables on-chain subscrip
 - Sets 30-day subscription period
 - Updates revenue and subscriber metrics
 
+## Contract Details
+
+**Deployed Contract Address:**
+'0x9c3e5f24d87fb2db7972e20e71cba501c426169beed886df384f160ae70b7071'
+<img width="1818" height="878" alt="image" src="https://github.com/user-attachments/assets/ab05cf65-fea5-4b04-a0da-707df1402ab5" />
+
 ## Project Structure
 
 ```
